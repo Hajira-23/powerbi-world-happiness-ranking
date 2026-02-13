@@ -22,3 +22,6 @@ This project demonstrates my ability to:
 - Analyze datasets
 - Build meaningful visualizations
 - Communicate insights clearly
+
+Note:
+Built as part of 1-month Data Analytics Internship at Alric Infotech 
